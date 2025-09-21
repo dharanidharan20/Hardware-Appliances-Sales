@@ -1,6 +1,6 @@
 # Hardware-Appliances-Sales
 The Sales.sql file is analysing the sale of the Hardware with different tables like Customers,Products,Orders,Ordersdetails.
-# 📊 Sales Database (MySQL)
+# Sales Database (MySQL)
 
 This project contains a **Sales Database** built using **MySQL**. It is designed to store and analyze customer and sales-related information, which can be further used for reporting and dashboard creation (e.g., in Power BI or Tableau).
 
